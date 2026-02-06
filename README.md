@@ -40,7 +40,7 @@ This project also includes a SQL query file used to validate key metrics and gen
 - Repeat purchase segmentation based on purchase frequency  
 - Subscription-based customer breakdown  
 
-📌 SQL file: [Customer Behavior SQL Queries](sql/customer_behaviour_sql_queries.sql)
+📌 SQL file: [Customer Behavior SQL Queries](customer_behaviour_sql_queries.sql)
 
 ---
 
