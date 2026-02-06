@@ -26,6 +26,11 @@ A leading retail company wants to better understand customer shopping behavior t
 
 ---
 
+## 📄 Project Report
+📄 Full Analysis Report: [Customer Shopping Behavior Analysis](customer-shopping-behavior-analysis.pdf)
+
+---
+
 ## 🛠 Tools & Technologies
 - Power BI Desktop  
 - DAX (Measures + Dynamic Titles)  
