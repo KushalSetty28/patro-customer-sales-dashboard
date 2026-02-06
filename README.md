@@ -31,6 +31,19 @@ A leading retail company wants to better understand customer shopping behavior t
 
 ---
 
+## 🧾 SQL Queries
+
+This project also includes a SQL query file used to validate key metrics and generate insights such as:
+- Total revenue, average order value, and customer counts  
+- Revenue contribution by category and location  
+- Payment method transaction distribution  
+- Repeat purchase segmentation based on purchase frequency  
+- Subscription-based customer breakdown  
+
+📌 SQL file: [Customer Behavior SQL Queries](sql/customer-behavior-sql-queries.sql)
+
+---
+
 ## 🛠 Tools & Technologies
 - Power BI Desktop  
 - DAX (Measures + Dynamic Titles)  
