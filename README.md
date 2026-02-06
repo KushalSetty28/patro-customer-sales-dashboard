@@ -6,6 +6,16 @@ Power BI dashboard analyzing PATRO customer sales, revenue drivers, payment beha
 This project is an interactive **Power BI dashboard** built to analyze customer purchasing behavior and identify key revenue drivers from transactional retail data. The dashboard focuses on **insight-driven storytelling**, highlighting where revenue comes from, how customers pay, and which customer segments contribute the most.
 
 ---
+## 🧩 Business Problem Statement
+
+A leading retail company wants to better understand customer shopping behavior to improve sales, satisfaction, and long-term loyalty. Management has observed changing purchasing patterns across demographics, product categories, and sales channels, and wants to identify key factors (discounts, reviews, seasons, payment preferences) that influence customer decisions and repeat purchases.
+
+### Business Question
+**How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
+📄 Full problem statement: [Business Problem Document](patro-business-problem.pdf)
+
+
+---
 
 ## 🎯 Key Insights
 - Revenue is **concentrated in top locations**, indicating geographic dependency.
